@@ -6,7 +6,7 @@ Employee attrition is a critical issue for organizations, and this project aims 
 
 
 
-## 🛑 Dataset Description
+## 🛑 Dataset Description 🛑
 
 This dataset presents an employee survey from IBM, indicating whether there is attrition. With approximately 24,000 entries, the model is expected to provide modest improvement in identifying attrition compared to random probability allocation.
 
@@ -25,7 +25,7 @@ While some attrition is inevitable, minimizing it and preparing for unavoidable 
                         YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager
 
 👉 link  [ 🔗IBM_Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-## 🛑 Data Preprocessing
+## 🛑 Data Preprocessing 🛑
 
 👉 **Exploratory Data Analysis (EDA):**
    - Visualized data using catplots, pie charts, and bar plots to understand feature distributions and relationships.
@@ -40,9 +40,9 @@ While some attrition is inevitable, minimizing it and preparing for unavoidable 
 👉 **Model Evaluation:**
    - Used ROC and AUC metrics to evaluate model performance.
 
-## 🛑 Libraries Used
+## 🛑 Libraries Used 🛑
 
-This project utilizes the following libraries:
+👉 This project utilizes the following libraries:
 
 - **Pandas**: Data manipulation.
 - **Numpy**: Numerical operations.
@@ -57,19 +57,19 @@ This project utilizes the following libraries:
 - **Scipy**: Scientific computing.
 - **Warnings**: Suppressing warnings.
 
-Additional settings:
+👉 Additional settings:
 - Display settings for DataFrame.
 - Plot size adjustments.
 
-## 🛑 Installation
+## 🛑 Installation 🛑
 
-Clone the repository:
+👉 Clone the repository:
 
 ```bash
    git clone https://github.com/Bineet117/Employee-Attrition-Project.git
 ```
 
-To install required libraries:
+👉 To install required libraries:
 
 ```bash
   pip install -r requirements.txt
@@ -77,13 +77,20 @@ To install required libraries:
  
 
     
-## Screenshots
+## 🛑 Model Performance 🛑
 
 <div style="display:flex; justify-content:space-between;">
   <img src="https://github.com/user-attachments/assets/851175b0-0f63-4669-9efc-bdaeef8d0d8b" alt="Screenshot 1" width="400"/>
   <img src="https://github.com/user-attachments/assets/2fcf1cec-f936-4e61-b8b7-9586d1f1c4e1" alt="Screenshot 2" width="400"/>
 </div>
+Using several models, the XGBoost classifier provided the best results with:
 
+👉 **Train Accuracy**: 99.98%    
+👉 **Test Accuracy**: 99.81%
 
 ![output](https://github.com/user-attachments/assets/329fe168-1307-4f58-b7b5-3be6c9e98504)
-- 
+👉 **ROC_AUC** 
+
+
+## 🛑 Contact_Information 🛑
+👉 For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
