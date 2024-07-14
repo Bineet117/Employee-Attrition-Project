@@ -1,6 +1,7 @@
 
 # 👨‍💼👨‍💼 Application of Data Science to Reduce Employee Attrition 👨‍💼👨‍💼
 
+![shutterstock_1696263217_edited](https://github.com/user-attachments/assets/71c6b958-801e-46dd-98c4-2f1b0a78ded1)
 Employee attrition is a critical issue for organizations, and this project aims to address it using Data Science and Analytics. By analyzing IBM datasets from open sources, we seek to understand employee profiles and identify patterns leading to attrition. Data mining techniques will be employed to predict potential attrition, enabling managers to take proactive measures. The objective is to apply Data Science techniques to analyze and mitigate employee attrition in different scenarios.
 
 
