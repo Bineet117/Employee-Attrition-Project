@@ -1,4 +1,3 @@
-
 # 👨‍💼👨‍💼 Application of Data Science to Reduce Employee Attrition 👨‍💼👨‍💼
 
 ![shutterstock_1696263217_edited](https://github.com/user-attachments/assets/71c6b958-801e-46dd-98c4-2f1b0a78ded1)
