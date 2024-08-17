@@ -12,17 +12,16 @@ This dataset presents an employee survey from IBM, indicating whether there is a
 
 While some attrition is inevitable, minimizing it and preparing for unavoidable cases can enhance business operations. In the future, a larger dataset could be used for employee segmentation to identify "at-risk" categories, providing deeper insights into the drivers of attrition beyond what informational interviews can offer.
 
-**👉 Target Feature(Categorical) :** Attrition
+**👉 Target Feature(Categorical) :** `Attrition`
 
-**👉 Categorical Features :** Business Travel, Department, EducationField, Gender, JobRole,  MaritalStatus, Over18,
-                          OverTime, Employee Source.
+**👉 Categorical Features :** `Business Travel`, `Department`, `EducationField`, `Gender`, `JobRole`,  `MaritalStatus`, `Over18`, `OverTime`, `Employee Source.`
                           
-**👉 Numerical Features :** Age, DailyRate, DistanceFromHome, Education, EmployeeCount , EmployeeNumber, 
-                        Application ID, EnvironmentSatisfaction, HourlyRate, JobInvolvement, JobLevel,
-                        JobSatisfaction, MonthlyIncome, MonthlyRate, NumCompaniesWorked, PercentSalaryHike,
-                        PerformanceRating, RelationshipSatisfaction, StandardHours, StockOptionLevel,
-                        TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany,
-                        YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager
+**👉 Numerical Features :** `Age`, `DailyRate`, `DistanceFromHome`, `Education`, `EmployeeCount` ,` EmployeeNumber`, 
+                        `Application ID`, `EnvironmentSatisfaction`,` HourlyRate`, `JobInvolvement`, `JobLevel`,
+                        `JobSatisfaction`, `MonthlyIncome`, `MonthlyRate`, `NumCompaniesWorked`, `PercentSalaryHike`,
+                        `PerformanceRating`, `RelationshipSatisfaction`, `StandardHours`, `StockOptionLevel`,
+                        `TotalWorkingYears`, `TrainingTimesLastYear`, `WorkLifeBalance`, `YearsAtCompany`,
+                        `YearsInCurrentRole`, `YearsSinceLastPromotion`, `YearsWithCurrManager`
 
 👉 link  [ 🔗IBM_Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 ## 🛑 Data Preprocessing 🛑
